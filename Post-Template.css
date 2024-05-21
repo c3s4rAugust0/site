@@ -112,7 +112,5 @@
 footer p {
   margin: 5px 0; /* Ajuste as margens conforme necessário */
   font-size: 14px; /* Tamanho da fonte */
-  color: #070707; /* Cor do texto */
-  background-color: #adcce9;
-
+  color: #ffffff; /* Cor do texto */
 }
