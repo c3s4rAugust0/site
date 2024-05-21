@@ -42634,3 +42634,33 @@ a.u-link.u-text-hover-grey-90:hover {
  /*begin-variables base-font-size*/ 
  html { font-size: 16px; }
  /*end-variables base-font-size*/
+ .social-share {
+  display: flex;
+  gap: 10px;
+}
+
+.social-share a {
+  padding: 10px 20px;
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+}
+
+.facebook {
+  background-color: #3b5998;
+}
+
+.twitter {
+  background-color: #1da1f2;
+}
+
+.linkedin {
+  background-color: #0077b5;
+}
+
+ footer p {
+  margin: 5px 0; /* Ajuste as margens conforme necessário */
+  font-size: 14px; /* Tamanho da fonte */
+  color: #070707; /* Cor do texto */
+  background-color: #adcce9;
+}
